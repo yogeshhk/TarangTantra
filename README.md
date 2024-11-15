@@ -25,6 +25,35 @@ This repository is designed for:
 - **Noise Reduction**: Methods for signal denoising and enhancement.
 - **Machine Learning in Signal Processing**: Integrating machine learning models for predictive and classification tasks in signal contexts.
 
+### Why?
+
+**Tarang-Tantra** is more than a repository; it’s a purposeful project inspired by the concept of **Ikigai** — the intersection of passion, mission, profession, and vocation in signal processing. The approach combines:
+
+- **Diverse Domain Applications**:
+  - **Sleep Analysis**
+  - **Medical Diagnostics**
+  - **Financial Forecasting**
+  - **Sensor Data Interpretation**
+  - **Music and Speech Processing**
+
+- **Mathematical Foundations**:
+  - Techniques like **Wavelets** and **Fourier Transforms** to analyze and interpret signals effectively.
+
+- **Technical Approaches**:
+  - A spectrum of methods, from **rule-based processing** to **advanced AI/ML techniques**.
+  - Support for **time-series analysis**, **signal sequences**, and **pattern recognition**.
+
+- **Specific Knowledge (by Naval Ravikant)**:
+  - Unique fusion of **Yoga Nidra** and **AI-driven signal processing** to explore wellness and mindfulness applications.
+
+- **Future Goals**:
+  - Develop **talks**, **training sessions**, and **micro-SaaS solutions**.
+  - Design **wearable technology** for continuous signal monitoring and interpretation.
+  - Enable **passive income** opportunities by building products that generate ongoing value.
+
+**Tarang-Tantra** is crafted to serve as a comprehensive toolkit, an educational resource, and a platform for innovative products, all at the intersection of modern signal processing and meaningful application.
+
+
 ## 🛠️ Getting Started
 ### Prerequisites
 To make the most of **Tarang-Tantra**, ensure you have:
